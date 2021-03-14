@@ -33,7 +33,12 @@
 
 .card-title {
 	color: white;
-  font-size: 10rem;
+	background: green;
+}
+
+.card-title {
+	color: silver;
+
 }
 
 .card-text {
