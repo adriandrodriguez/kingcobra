@@ -1,41 +1,45 @@
 .navbar-brand {
-  font-family: "Bowlby One SC", cursive;
-  /* font-family: "Open Sans", sans-serif; */
-  font-size: 40px;
+	font-family: "Bowlby One SC", cursive;
+	/* font-family: "Open Sans", sans-serif; */
+	font-size: 40px;
 }
 
 .cobra-font {
-  font-family: "Bowlby One SC", cursive;
-  /* font-family: "Open Sans", sans-serif; */
-  font-size: 50px;
+	font-family: "Bowlby One SC", cursive;
+	/* font-family: "Open Sans", sans-serif; */
+	font-size: 50px;
 }
 
 .main-header {
-  display: inline;
-  justify-content: center;
-  text-align: center;
+	display: inline;
+	justify-content: center;
+	text-align: center;
 }
 
 .card-img {
-  width: 100px;
-  max-width: 540px;
+	width: 100px;
+	max-width: 540px;
 }
 .card {
-  align-content: center;
-  justify-content: center;
-  text-align: center;
-  margin: auto;
+	align-content: center;
+	justify-content: center;
+	text-align: center;
+	margin: auto;
+}
+
+.card-body {
+	background: purple;
 }
 
 .card-title {
-  color: white;
+	color: white;
 }
 
 .card-text {
-  color: white;
+	color: white;
 }
 
 .cobra {
-  max-width: 500px;
-  max-width: 100%;
+	max-width: 500px;
+	max-width: 100%;
 }
