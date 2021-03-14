@@ -28,11 +28,12 @@
 }
 
 .card-body {
-	background: purple;
+	background: darkcyan;
 }
 
 .card-title {
 	color: white;
+  font-size: 10rem;
 }
 
 .card-text {
